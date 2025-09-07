@@ -64,7 +64,10 @@ An **AI-driven Evacuation Planning System** that:
 ### Validation  
 - Run simulations with and without AI-based planning.  
 - Compare survival outcomes.  
-- Adjust demographic weighting to ensure fairness.  
+- Adjust demographic weighting to ensure fairness.
+- ## 📑 Additional Documents  
+- [Comparative Study](Comparative_Study.txt)  
+- [Innovation Proposal](Innovation_Proposal.md)  
 
 ---
 
