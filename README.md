@@ -90,7 +90,6 @@ An **AI-driven Evacuation Planning System** that:
 1. Open [Google Colab](https://colab.research.google.com/).  
 2. Upload `Titanic_EDA_Mutthuram.ipynb`.  
 3. Run all cells to reproduce the analysis and plots.  
-![Survival Analysis](survival.png)
 
 ---
 
