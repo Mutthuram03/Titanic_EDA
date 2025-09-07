@@ -1,0 +1,24 @@
+Comparative Study of Findings
+
+🔹 Key Patterns / Trends
+
+Females had a much higher survival rate compared to males.
+
+First-class passengers had a higher chance of survival than second and third class.
+
+Children (age < 12) had better survival rates compared to adults and elderly.
+
+🔹 Insights Gained
+
+Gender and passenger class strongly influenced survival chances.
+
+Wealth (indirectly indicated by class) and social priority (women/children first) were critical survival factors.
+
+Age was also an important factor, highlighting social norms during evacuation.
+
+🔹 Rationale Behind Proposed Idea
+Based on these insights, a Passenger Safety Prediction System could be developed.
+
+It would use demographic and ticket data (age, gender, class, etc.) to assess survival likelihood in emergencies.
+
+R&D teams can apply these insights to design fairer and safer evacuation strategies for future transport systems (ships, flights, trains).
